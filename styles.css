@@ -1,0 +1,46 @@
+body {
+    background-color: #E5E5E5;
+    font-family: Arial, sans-serif;
+    margin: 20px;
+  }
+
+  h1 {
+    text-align: center;
+  }
+
+  label {
+    display: block;
+    margin-bottom: 10px;
+  }
+
+  input[type="text"] {
+    background-color: #E5E5E5;
+    flex: right;
+    width: 800px;
+    height: 450px;
+    padding: 5px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 150%;
+/* or 48px */
+color: #0A3871;
+  }
+
+  button {
+    padding: 10px 20px;
+    font-size: 16px;
+  }
+
+  #result {
+    margin-top: 20px;
+    border: 1px solid #ccc;
+    padding: 10px;
+  }
+
+  footer {
+    margin-top: 50px;
+    text-align: center;
+    color: #888;
+  }
